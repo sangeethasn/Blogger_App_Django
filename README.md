@@ -1,4 +1,4 @@
-# Project
+# Project-BloggerApp
 
 Django-blog-project
 
