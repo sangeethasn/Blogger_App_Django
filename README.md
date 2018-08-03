@@ -30,14 +30,14 @@ The home page can be reached by clicking on the page title 'Blogger:Publish your
 
 Features
           
-    Add Blogs, Edit Blogs ,Remove Blogs 
+   . Add Blogs, Edit Blogs ,Remove Blogs 
 
-    Each Blog has Comments
+   . Each Blog has Comments
 
-    Chat Rooms using channels
+   . Chat Rooms using channels
 
-    Authentication using Login and Logout
+   . Authentication using Login and Logout
 
-    Sign Up for new users
+   . Sign Up for new users
 
-    Registration for new Users and login in for registered users is possible through the home page. 
+   . Registration for new Users and login in for registered users is possible through the home page. 
