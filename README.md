@@ -9,7 +9,7 @@ Note:
 
     Make sure you have python 3 and not 2!!
 
-    Make sure you activate the virtual environment provided here(iso_venv) or install the following versions in your virtual                                        environment
+    Make sure you  install the following versions in your virtual environment
 
     pip install django==2.0.6
 
