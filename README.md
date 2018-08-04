@@ -19,6 +19,11 @@ Note:
 
     pip install channels_redis
     
+    sudo apt install docker.io
+    
+
+    
+    
 Before running , make sure you run the redis server first To run the chat,first run : sudo docker run -p 6379:6379 -d                                 redis:2.8
 
 After this to run, type python3 manage.py runserver 
